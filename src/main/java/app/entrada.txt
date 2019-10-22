@@ -1,0 +1,20 @@
+    for ( var = 5 ; i<5; i++) {
+        long jere = 19;
+        for (var = 6 ; i<8 ; j++) {
+
+        }
+
+
+
+        if (i == 6) {
+            int a = 6;
+            int a =1; 
+                a = 8;
+            {
+                prueba = 4;
+                boolean bruno = hola;
+            }
+        }
+    }
+
+    
